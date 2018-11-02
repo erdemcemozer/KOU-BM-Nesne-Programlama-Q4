@@ -1,0 +1,16 @@
+Kocaeli Üniversitesi Bilgisayar Mühendisliği Bölümü
+Nesneye Yönelik Programlama Dersi
+QUIZ 4
+
+------------------------------------
+
+  Bu program iki farklı sorunu çözmek için kodlanmıştır. İlk problemde girilen iki dizinin
+kesişen elemanlarını bulup başka bir diziye aktardıktan sonra kesişen elemanları yeni diziden
+alarak ekrana bastırır. Kullanılan diziler "ArrayList" ile tanımlanmıştır.
+
+  İkinci problemde ise kullanıcıdan alınan 10luk tabanda bir sayının, 2lik tabanda karşılığı
+istenmiştir. Alınan sayının önce 2'ye göre modunu sırayla alan kod daha sonra bu sonuçları bir
+diziye aktarır. Daha sonra ise diziyi tersten yazdırarak sayının 2'lik düzendeki karşılığı
+bulunur.
+
+-------------------------------------
